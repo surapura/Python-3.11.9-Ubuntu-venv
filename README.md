@@ -22,8 +22,8 @@ In bug bounty / pentesting, tools are often written for older Python versions an
 ### ✅ Usage
 
 ```bash
-chmod +x install_python_3.11.9.sh
-./install_python_3.11.9.sh
+chmod +x python3.11.9.sh
+./python3.11.9.sh
 ```
 
 ##
